@@ -1,0 +1,31 @@
+{
+    "diagnostics.globals": [
+        "vim",
+        "null_ls",
+        "cspell",
+        "separator",
+        "text_align",
+        "buffer_a",
+        "width",
+        "preview_configuration",
+        "prompt_configuration",
+        "results_configuration",
+        "options",
+        "nvterm",
+        "CR",
+        "cmd",
+        "layout",
+        "colors",
+        "builtin",
+        "actions",
+        "getcwd",
+        "nvim_get_buf_dir",
+        "keymaps",
+        "cd",
+        "e",
+        "keys",
+        "languageServers",
+        "_",
+        "ls"
+    ]
+}
